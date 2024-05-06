@@ -1,8 +1,8 @@
-Overview:
+**Overview:**
 
 This project serves as an assignment submission for the SDE 1 role at Weekday. It is a clone of the Job Search section of Weekday's chrome extension, which enables users to search for jobs based on their preferences and filters.
 
-Installation:
+**Installation:**
 
 To get started with the Weekday Project, follow these steps:
 
@@ -22,10 +22,12 @@ After you have cloned the repository, install the required dependencies by runni
 
 Once the dependencies are installed, start the Vite server by running the following command:
 
-npm run dev
+**npm run dev**
 
 You can now access the project in your browser by navigating to the specified address (usually http://localhost:3000).
-Additional Notes:
+
+**Additional Notes:**
+
 For any queries or support, feel free to contact the author via email (py452230@gmail.com) or phone number (+91 8604789802).
 If you encounter any issues with the extension, please refer to the GitHub repository for potential updates or bug fixes.
 
