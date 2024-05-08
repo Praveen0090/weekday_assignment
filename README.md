@@ -26,10 +26,8 @@ Once the dependencies are installed, start the Vite server by running the follow
 
 You can now access the project in your browser by navigating to the specified address (usually http://localhost:3000).
 
-**Additional Notes:**
-
-For any queries or support, feel free to contact the author via email (py452230@gmail.com) or phone number (+91 8604789802).
-If you encounter any issues with the extension, please refer to the GitHub repository for potential updates or bug fixes.
+**Live Link**
+https://weekday-assignment-two.vercel.app/
 
 Author:
 
