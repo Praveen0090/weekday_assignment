@@ -1,6 +1,6 @@
 **Overview:**
 
-This project serves as an assignment submission for the SDE 1 role at Weekday. It is a clone of the Job Search section of Weekday's chrome extension, which enables users to search for jobs based on their preferences and filters.
+ It is a clone of the Job Search section of Weekday's chrome extension, which enables users to search for jobs based on their preferences and filters.
 
 **Installation:**
 
